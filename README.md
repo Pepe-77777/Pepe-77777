@@ -8,6 +8,4 @@ Skills: JS / HTML / CSS / JAVA / PYTHON / BATCH SCRIPT
 
 - 🔭 Estou trabalhando em um plugin do windows 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://youtube.com/canaldopepe123piano)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pepe-77777&show_icons=true)  
