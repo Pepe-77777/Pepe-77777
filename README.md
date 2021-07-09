@@ -1,6 +1,13 @@
-![116171811-e122bc80-a6df-11eb-9729-fa818c393c9a (1)](https://user-images.githubusercontent.com/81209437/125085234-bae6a900-e0a0-11eb-92bc-49411e5e6fcd.png)
+### Oi! 👋, Meu nome é Pepê!
+#### Eu sou um desenvolvedor de Batch Scrips e Bots.
+![Eu sou um desenvolvedor de Batch Scrips e Bots.](https://user-images.githubusercontent.com/81209437/125085234-bae6a900-e0a0-11eb-92bc-49411e5e6fcd.png)
 
-# Pepê
-- Programador de "JavaScript", "Batch Script" e sei um pouco de "Java".
+Eu sou um desenvolvedor de PLUGINS do windows e de programas.
 
-‼️ Estou fazendo um plugin do windows, você pode acessar [clicando aqui](https://github.com/Pepe-77777/GeneralTasksWindowsPlugin)
+Skills: JS / HTML / CSS / JAVA / PYTHON / BATCH SCRIPT
+
+- 🔭 Estou trabalhando em um plugin do windows 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://youtube.com/canaldopepe123piano)  
+
